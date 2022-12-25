@@ -7,9 +7,10 @@
 ## Deskripsi Umum
 Source code yang digunakan untuk membuat array dua dimensi. Program yang mengubah letak nilai yang sebelumnya sebuah baris menjadi sebuah kolom, dan sebaliknya. 
 Dengan algoritma :
-1. User menginputkan banyaknya baris dan kolom
-2. User menginputkan nilai array satu persatu
-3. Output nilai array sesuai dengan matriks juga ditampilkan nilai yang sudah dibalik
+1. User menginputkan berapa banyak baris pada array
+2. User menginputkan berapa banyak kolom dari baris pada array
+3. User menginputkan satu persatu nilai array
+4. Output nilai array sesuai dengan matriks juga ditampilkan nilai yang sudah dibalik
 
 ## Source Code
 	#include <iostream>
